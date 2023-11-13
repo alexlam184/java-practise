@@ -11,7 +11,7 @@ I am not sure which strength you are good at, it could be your talent on system 
 
 Project should contain a README.md, including:
 1. how to compile, test, start the application
-2. write up a short daily, let us know how you learn / think / try / develop for each day. 
+2. make around one minutes video to demo your work
 
 Bonus
 1. using javascript/typescript for UI
